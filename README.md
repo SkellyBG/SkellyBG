@@ -1,6 +1,8 @@
-Hello this is Skelly o//
-I'm a second year Computer Science student, and just getting my feet wet in a bunch of things.
+About me!
+----------
 
+Hello this is Skelly o//
+I'm a second year UTS Computer Science student, and just getting my feet wet in a bunch of things.
 If you're reading this, you're cool!
 
 <!---
