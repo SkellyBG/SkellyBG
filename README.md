@@ -1,5 +1,5 @@
 Hello this is Skelly o//
-I'm a first year Computer Science student, and just getting my feet wet in a bunch of things.
+I'm a second year Computer Science student, and just getting my feet wet in a bunch of things.
 
 If you're reading this, you're cool!
 
