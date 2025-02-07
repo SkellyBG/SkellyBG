@@ -2,7 +2,7 @@ About me!
 ----------
 
 Hello this is Hung/Skelly o/
-I'm a funal year UNSW Computer Science student, and still getting my feet wet in a bunch of things.
+I'm a final year UNSW Computer Science student, and still getting my feet wet in a bunch of things.
 I'm also currently working at Luxury Escapes as an Associate Engineer, leaning toward backend!
 
 Current interest: Rust, Functional Programming
